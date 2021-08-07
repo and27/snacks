@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/snacks/static/css/main.97ee313c.chunk.css",
-    "main.js": "/snacks/static/js/main.5e019f66.chunk.js",
-    "main.js.map": "/snacks/static/js/main.5e019f66.chunk.js.map",
-    "runtime-main.js": "/snacks/static/js/runtime-main.d55a6443.js",
-    "runtime-main.js.map": "/snacks/static/js/runtime-main.d55a6443.js.map",
-    "static/js/2.8fbf067b.chunk.js": "/snacks/static/js/2.8fbf067b.chunk.js",
-    "static/js/2.8fbf067b.chunk.js.map": "/snacks/static/js/2.8fbf067b.chunk.js.map",
-    "static/js/3.a75bdce0.chunk.js": "/snacks/static/js/3.a75bdce0.chunk.js",
-    "static/js/3.a75bdce0.chunk.js.map": "/snacks/static/js/3.a75bdce0.chunk.js.map",
-    "index.html": "/snacks/index.html",
-    "static/css/main.97ee313c.chunk.css.map": "/snacks/static/css/main.97ee313c.chunk.css.map",
-    "static/js/2.8fbf067b.chunk.js.LICENSE.txt": "/snacks/static/js/2.8fbf067b.chunk.js.LICENSE.txt",
-    "static/media/logo_snacks_complete.7395c8f9.png": "/snacks/static/media/logo_snacks_complete.7395c8f9.png",
-    "static/media/profile.d2880909.png": "/snacks/static/media/profile.d2880909.png"
+    "main.css": "https://and27.github.io/snacks/static/css/main.97ee313c.chunk.css",
+    "main.js": "https://and27.github.io/snacks/static/js/main.5ec28360.chunk.js",
+    "main.js.map": "https://and27.github.io/snacks/static/js/main.5ec28360.chunk.js.map",
+    "runtime-main.js": "https://and27.github.io/snacks/static/js/runtime-main.38e65457.js",
+    "runtime-main.js.map": "https://and27.github.io/snacks/static/js/runtime-main.38e65457.js.map",
+    "static/js/2.f438f66a.chunk.js": "https://and27.github.io/snacks/static/js/2.f438f66a.chunk.js",
+    "static/js/2.f438f66a.chunk.js.map": "https://and27.github.io/snacks/static/js/2.f438f66a.chunk.js.map",
+    "static/js/3.fec6eba2.chunk.js": "https://and27.github.io/snacks/static/js/3.fec6eba2.chunk.js",
+    "static/js/3.fec6eba2.chunk.js.map": "https://and27.github.io/snacks/static/js/3.fec6eba2.chunk.js.map",
+    "index.html": "https://and27.github.io/snacks/index.html",
+    "static/css/main.97ee313c.chunk.css.map": "https://and27.github.io/snacks/static/css/main.97ee313c.chunk.css.map",
+    "static/js/2.f438f66a.chunk.js.LICENSE.txt": "https://and27.github.io/snacks/static/js/2.f438f66a.chunk.js.LICENSE.txt",
+    "static/media/logo_snacks_complete.7395c8f9.png": "https://and27.github.io/snacks/static/media/logo_snacks_complete.7395c8f9.png",
+    "static/media/profile.d2880909.png": "https://and27.github.io/snacks/static/media/profile.d2880909.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d55a6443.js",
-    "static/js/2.8fbf067b.chunk.js",
+    "static/js/runtime-main.38e65457.js",
+    "static/js/2.f438f66a.chunk.js",
     "static/css/main.97ee313c.chunk.css",
-    "static/js/main.5e019f66.chunk.js"
+    "static/js/main.5ec28360.chunk.js"
   ]
 }
